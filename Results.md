@@ -9,4 +9,4 @@
 ### LSTM Model
 #### We used 258k rows for training and 50k rows for validation. We trained the LSTM model for 20 epochs with a batch size of 2000. 
 #### Accuracy for each epoch can be seen in the below diagram.
-![Alt text](/screenshots/insurance.PNG?raw=true)
+![Alt text](/screenshots/Screen Shot 2022-04-18 at 2.44.49 AM.PNG?raw=true)
