@@ -3,7 +3,7 @@
 #### https://drive.google.com/file/d/1B51GDyaaehfVjQWQ8A6phr17M6WrqqnA/view?usp=sharing
 
 
-#### Calculated training accuracy,validation accuracy,training loss, validation loss for the three models.
+#### Calculated training accuracy,validation accuracy,training loss, validation loss for the three models. We also predicted the output data using model.predict.
 #### We could't calculate the test accuracy because there is no feature with class variable in the test data set.
 
 ### LSTM Model
